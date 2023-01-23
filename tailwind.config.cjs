@@ -15,6 +15,9 @@ module.exports = {
       "turquoise-blue": "#55B6C2",
       "slate-light-gray": "#ABB2BF"
     },
+    fontFamily: {
+      sans: ['Fira Code', 'monospace']
+    },
     extend: {},
   },
   plugins: [],
